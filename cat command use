@@ -1,0 +1,5 @@
+cat > file1
+  hello how are
+ctrl+D enter
+cat file file 2 >> file3
+  cat >> file1
